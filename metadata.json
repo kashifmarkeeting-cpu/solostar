@@ -1,0 +1,6 @@
+{
+  "name": "SOLO — Digital Identity",
+  "description": "Digital Creator, Developer, and Creative Mind. Interactive digital identity featuring dynamic themes, spatial visuals, and ambient sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
